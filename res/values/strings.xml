@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FakeVPN</string>
+    <string-array name="dns_resolvers">
+        <item>cloudflare-dns.com</item>
+        <item>google-dns.com</item>
+        <item>quad9.net</item>
+        <item>opendns.com</item>
+    </string-array>
+</resources>
